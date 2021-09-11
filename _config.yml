@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: minima
 title: VetText
 include: [_pages]
 description: Repository for VetText veterinary text-mining forum
