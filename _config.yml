@@ -9,6 +9,11 @@ toc: false
 # toc_label: "Table of contents"
 # toc_sticky: true
 
-sidebar:
-  title: "Navigation"
-  nav: vettext_sidebar
+# sidebar:
+#   title: "Navigation"
+#   nav: vettext_sidebar
+
+header_pages:
+  - about.md
+  - contacts.md
+  - meetings.md
