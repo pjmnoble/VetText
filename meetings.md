@@ -1,3 +1,7 @@
+layout: page
+title: "Meetings"
+permalink: /meetings/
+
 ## VetText Meetings
 We aim to hold quarterly meetings
 
