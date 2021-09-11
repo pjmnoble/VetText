@@ -3,6 +3,7 @@ title: VetText
 description: Repository for VetText veterinary text-mining forum
 logo: VetText.png
 show_downloads: false
+baseurl: /VetText
 
 toc: true
 toc_label: "Table of contents"
