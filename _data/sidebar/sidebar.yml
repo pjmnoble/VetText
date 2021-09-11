@@ -1,11 +1,11 @@
 entries:
--title: sidebar
+-title: "sidebar"
   folders:
-  -title: Navigate
+  -title: "Navigate"
    folderitems:
-    - title: About
+    - title: "About"
       url: /about
-    - title: Meetings
+    - title: "Meetings"
       url: /meetings
-    - title: Contact us
+    - title: "Contact us"
       url: /contacts
