@@ -1,0 +1,7 @@
+navigation-sidebar:
+  - title: "About"
+    url: /about
+  - title: "Meetings
+    url: /meetings
+  - title: "Contact us"
+    url: /contacts
