@@ -6,9 +6,9 @@ logo:
 show_downloads: false
 baseurl: /VetText
 
-toc: true
-toc_label: "Table of contents"
-toc_sticky: true
+# toc: true
+# toc_label: "Table of contents"
+# toc_sticky: true
 
 sidebar:
   title: "Navigation"
