@@ -1,7 +1,6 @@
 # theme: jekyll-theme-minimal
 theme: minima
 title: VetText
-include: [_pages]
 description: Repository for VetText veterinary text-mining forum
 show_downloads: false
 baseurl: /VetText
@@ -15,6 +14,10 @@ toc: false
 #   nav: vettext_sidebar
 
 header_pages:
-  - about.md
-  - contacts.md
-  - meetings.md
+  - _pages/about.md
+  - _pages/contacts.md
+  - _pages/meetings.md
+  
+include: 
+  - _pages
+
