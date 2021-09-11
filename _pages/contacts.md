@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact us"
-permalink: /VetText/contacts/
+permalink: /contacts/
 ---
 
 ## Placeholder for contacts page
