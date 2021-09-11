@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: VetText
-include: [_pages, _includes]
+include: [_pages]
 description: Repository for VetText veterinary text-mining forum
 show_downloads: false
 baseurl: /VetText
