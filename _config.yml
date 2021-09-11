@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: VetText
 description: Repository for VetText veterinary text-mining forum
-logo: VetText.png
+logo: 
 show_downloads: false
 baseurl: /VetText
 
