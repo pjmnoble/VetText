@@ -2,16 +2,7 @@
 theme: minima
 title: VetText
 description: Repository for VetText veterinary text-mining forum
-show_downloads: false
 baseurl: /VetText
-
-toc: false
-# toc_label: "Table of contents"
-# toc_sticky: true
-
-# sidebar:
-#   title: "Navigation"
-#   nav: vettext_sidebar
 
 header_pages:
   - _pages/about.md
