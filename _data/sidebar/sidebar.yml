@@ -1,7 +1,13 @@
-navigation-sidebar:
-  - title: "About"
-    url: /about
-  - title: "Meetings"
-    url: /meetings
-  - title: "Contact us"
-    url: /contacts
+entries:
+-title: sidebar
+  product: VetText
+  version: 0.1
+  folders:
+  -title: Navigate
+   folderitems:
+    - title: About
+      url: /about
+    - title: Meetings
+      url: /meetings
+    - title: Contact us
+      url: /contacts
