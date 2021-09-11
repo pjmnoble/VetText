@@ -1,8 +1,9 @@
 # theme: jekyll-theme-minimal
 theme: minima
 title: VetText
-description: Repository for VetText veterinary text-mining forum
+description: Veterinary text-mining
 baseurl: /VetText
+author: pjmnoble
 
 header_pages:
   - _pages/about.md
