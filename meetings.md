@@ -1,6 +1,6 @@
 layout: page
 title: "Meetings"
-permalink: /meetings/
+permalink: /VetText/meetings/
 
 ## VetText Meetings
 We aim to hold quarterly meetings
