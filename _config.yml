@@ -11,4 +11,4 @@ baseurl: /VetText
 
 sidebar:
   title: "Navigation"
-  nav: navigation-sidebar
+  nav: vettext_sidebar
