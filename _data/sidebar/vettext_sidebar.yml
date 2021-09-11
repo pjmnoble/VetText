@@ -1,7 +1,17 @@
 entries:
-- title: "About"
-  url: /about
-- title: "Meetings"
-  url: /meetings
-- title: "Contact us"
-  url: /contacts
+- title: sidebar
+  product: VetText Pages
+  version: 1.0
+  folders:
+  - title: Overview
+    output: web, pdf
+    folderitems:
+    - title: "About"
+      url: /about
+      output: web, pdf
+    - title: "Meetings"
+      url: /meetings
+      output: web, pdf
+    - title: "Contact us"
+      url: /contacts
+      output: web, pdf
