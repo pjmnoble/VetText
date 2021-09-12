@@ -1,5 +1,5 @@
 # theme: jekyll-theme-minimal
-theme: minima
+theme: dbyll
 title: VetText
 description: Veterinary text-mining
 baseurl: /VetText
