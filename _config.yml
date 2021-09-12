@@ -9,6 +9,8 @@ plugins:
 - jekyll-remote-theme
 title: VetText
 description: Veterinary text-mining
+show_downloads: false
+
 baseurl: /VetText
 author: pjmnoble
 
